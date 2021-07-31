@@ -2,8 +2,11 @@ import 'package:custom_clippers/Clippers/directional_wave_clipper.dart';
 import 'package:custom_clippers/Clippers/sin_cosine_wave_clipper.dart';
 import 'package:flutter/material.dart';
 import 'package:new_quize/models/category.dart';
+import 'package:new_quize/ui/pages/progress_page.dart';
+import 'package:new_quize/ui/widgets/content_html_load.dart';
 import 'package:new_quize/ui/widgets/custom_card.dart';
 import 'package:new_quize/ui/widgets/quiz_options.dart';
+import 'package:page_transition/page_transition.dart';
 
 class SectionPage extends StatelessWidget {
   Category category;
@@ -46,17 +49,23 @@ class SectionPage extends StatelessWidget {
                                 width: MediaQuery.of(context).size.width*.8/2,
                                 child: CategoryCard(svgSrc: category.icon, title: category.name,)),
                           ),
-                          Container(
-                              height: 200,
-                              width: MediaQuery.of(context).size.width*.8/2,
-                              child: CategoryCard(svgSrc: Icons.text_snippet, title: "Learn ${category.name}")),
+                          InkWell(
+                            onTap: ()=>Navigator.push(context, PageTransition(type: PageTransitionType.rightToLeft,child: ContentHtmlLoad(category:category))),
+                            child: Container(
+                                height: 200,
+                                width: MediaQuery.of(context).size.width*.8/2,
+                                child: CategoryCard(svgSrc: Icons.text_snippet, title: "Learn ${category.name}")),
+                          ),
                         ],
                       ),
                       SizedBox(height: 10,),
-                      Container(
-                          height: 200,
-                          width: MediaQuery.of(context).size.width*1.8/2,
-                          child: CategoryCard(svgSrc: Icons.legend_toggle, title: "${category.name} Progress")),
+                      InkWell(
+                        onTap: ()=>Navigator.push(context, PageTransition(type: PageTransitionType.rightToLeft,child: ProgressPage(category:category))),
+                        child: Container(
+                            height: 200,
+                            width: MediaQuery.of(context).size.width*1.8/2,
+                            child: CategoryCard(svgSrc: Icons.legend_toggle, title: "${category.name} Progress")),
+                      ),
                     ],
                   ),
                 ),

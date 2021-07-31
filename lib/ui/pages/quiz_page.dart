@@ -148,7 +148,7 @@ class _QuizPageState extends State<QuizPage> {
     } else {
       Navigator.of(context).pushReplacement(MaterialPageRoute(
           builder: (_) => QuizFinishedPage(
-              questions: widget.questions, answers: _answers)));
+              questions: widget.questions, answers: _answers,categoryName: widget.category.name,)));
     }
   }
 

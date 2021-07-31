@@ -1,15 +1,17 @@
 import 'package:flutter/material.dart';
 import 'package:new_quize/models/question.dart';
 import 'package:new_quize/ui/pages/check_answers.dart';
+import 'package:shared_preferences/shared_preferences.dart';
 
 class QuizFinishedPage extends StatelessWidget {
   final List<Question> questions;
   final Map<int, dynamic> answers;
+  final String categoryName;
   
   int correctAnswers=0;
 
 
-  QuizFinishedPage({required this.questions, required this.answers});
+  QuizFinishedPage({required this.questions, required this.answers,required this.categoryName});
 
   @override
   Widget build(BuildContext context){
@@ -105,7 +107,15 @@ class QuizFinishedPage extends StatelessWidget {
                     ),
                     color: Theme.of(context).accentColor.withOpacity(0.8),
                     child: Text("Goto Home"),
-                    onPressed: () => Navigator.pop(context),
+                    onPressed: () async{
+                      print(categoryName);
+                      SharedPreferences _pref=await SharedPreferences.getInstance();
+                      _pref.setString(categoryName+"_totalQus", questions.length.toString());
+                      _pref.setString(categoryName+'_score', "${correct/questions.length * 100}%");
+                      _pref.setString(categoryName+'_correct', '$correct/${questions.length}');
+                      _pref.setString(categoryName+'_inCorrect', "${questions.length - correct}/${questions.length}");
+                      Navigator.pop(context);
+                    },
                   ),
                   RaisedButton(
                     padding: const EdgeInsets.symmetric(horizontal: 16.0, vertical: 20.0),
@@ -114,7 +124,13 @@ class QuizFinishedPage extends StatelessWidget {
                     ),
                     color: Theme.of(context).primaryColor,
                     child: Text("Check Answers"),
-                    onPressed: (){
+                    onPressed: ()async{
+                      print(categoryName);
+                      SharedPreferences _pref=await SharedPreferences.getInstance();
+                      _pref.setString(categoryName+"_totalQus", questions.length.toString());
+                      _pref.setString(categoryName+'_score', "${correct/questions.length * 100}%");
+                      _pref.setString(categoryName+'_correct', '$correct/${questions.length}');
+                      _pref.setString(categoryName+'_inCorrect', "${questions.length - correct}/${questions.length}");
                       Navigator.of(context).push(MaterialPageRoute(
                         builder: (_) => CheckAnswersPage(questions: questions, answers: answers,)
                       ));

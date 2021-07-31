@@ -1,76 +1,90 @@
 {
   "response_code": 0,
-  "results": [
+  "results": [{
+    "category": "General Knowledge",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "মার্কিন যুক্তরাষ্ট্রের রাষ্ট্রপতি নির্বাচন ২০১৬ এর",
+    "correct_answer": "নভেম্বর",
+    "incorrect_answers": [
+      "সেপ্টেম্বর",
+      "অক্টোবর",
+      "ডিসেম্বর"
+    ]
+  },
     {
       "category": "General Knowledge",
       "type": "multiple",
       "difficulty": "medium",
-      "question": "According to the BBPA, what is the most common pub name in the UK?",
-      "correct_answer": "Red Lion",
+      "question": "মার্কিন যুক্তরাষ্ট্রের (বর্তমান) প্রেসিডেন্টের নাম কি",
+      "correct_answer": "ডোনাল্ড ট্রাম্প",
       "incorrect_answers": [
-        "Royal Oak",
-        "White Hart",
-        "King&#039;s Head"
+        "হিলারি ক্লিনটন",
+        "জর্জ ডব্লিউ বুশ",
+        "বারাক ওবামা"
       ]
     },
     {
       "category": "General Knowledge",
       "type": "multiple",
       "difficulty": "medium",
-      "question": "This field is sometimes known as &ldquo;The Dismal Science.&rdquo;",
-      "correct_answer": "Economics",
+      "question": "মার্কিন যুক্তরাষ্ট্রের বর্তমান প্রেসিডেন্টের রাজনৈতিক দলের নাম কি",
+      "correct_answer": "রিপাবলিকান পার্টি",
       "incorrect_answers": [
-        "Philosophy",
-        "Politics",
-        "Physics"
+        "লেবার পার্টি",
+        "ডেমোক্রেটিক পার্টি",
+        "কনজারভেটিভ পার্টি"
       ]
     },
     {
       "category": "General Knowledge",
       "type": "multiple",
       "difficulty": "hard",
-      "question": "What type of dog is &#039;Handsome Dan&#039;, the mascot of Yale University?",
-      "correct_answer": "Bulldog",
+      "question": "যুক্তরাষ্ট্রের ভাইস প্রেসিডেন্টের নাম কি",
+      "correct_answer": "মাইক পেন্স",
       "incorrect_answers": [
-        "Yorkshire Terrier",
-        "Boxer",
-        "Pug"
+        "আল গোর",
+        "জো বাইডেন",
+        "ডিক চেনি"
       ]
     },
     {
       "category": "General Knowledge",
       "type": "multiple",
       "difficulty": "easy",
-      "question": "In past times, what would a gentleman keep in his fob pocket?",
-      "correct_answer": "Watch",
+      "question": "who is the Defence Secretary of USA",
+      "correct_answer": "Mark Esper",
       "incorrect_answers": [
-        "Money",
-        "Keys",
-        "Notebook"
+        "Donald Rumsfeld",
+        "Patrick M. Shanahan",
+        "Richard Vaughn Spencer",
+        "Dick Cheney"
       ]
     },
     {
       "category": "General Knowledge",
       "type": "multiple",
       "difficulty": "medium",
-      "question": "Scotch whisky and Drambuie make up which cocktail?",
-      "correct_answer": "Rusty Nail",
+      "question": "Who is the current Secretary of State of the USA?",
+      "correct_answer": "Mike pompeo",
       "incorrect_answers": [
-        "Screwdriver",
-        "Sex on the Beach",
-        "Manhattan"
+        "John Kerry",
+        "Hillary Clinton",
+        "John McCain",
+        "Rex Tillerson"
       ]
     },
     {
       "category": "General Knowledge",
       "type": "multiple",
       "difficulty": "easy",
-      "question": "Which sign of the zodiac is represented by the Crab?",
-      "correct_answer": "Cancer",
+      "question": "মার্কিন যুক্তরাষ্ট্রের বর্তমান স্বরাষ্ট্রমন্ত্রীর নাম কি?",
+      "correct_answer": "ডেভিড বার্নাডর্ট",
       "incorrect_answers": [
-        "Libra",
-        "Virgo",
-        "Sagittarius"
+        "হিলারি ক্লিনটন",
+        "মাইক পেন্স",
+        "রেক্স টিলারসন "
+
       ]
     },
     {
@@ -89,29 +103,31 @@
       "category": "General Knowledge",
       "type": "multiple",
       "difficulty": "easy",
-      "question": "What geometric shape is generally used for stop signs?",
-      "correct_answer": "Octagon",
+      "question": "মার্কিন কংগ্রেসের নিম্নকক্ষ প্রতিনিধি পরিষদের বর্তমান স্পিকার?",
+      "correct_answer": "ন্যান্সি পেলোসি",
       "incorrect_answers": [
-        "Hexagon",
-        "Circle",
-        "Triangle"
+        "হিলারি ক্লিনটন",
+        "পল রায়ান",
+        "জন বেয়েনার "
       ]
     },
     {
       "category": "General Knowledge",
       "type": "boolean",
       "difficulty": "medium",
-      "question": "The vapor produced by e-cigarettes is actually water.",
-      "correct_answer": "False",
+      "question": "বর্তমান যুক্তরাজ্য কোন দল সরকার গঠন করেছে?",
+      "correct_answer": "কনজারভেটিভ পার্টি",
       "incorrect_answers": [
-        "True"
+        "লেবার পার্টি",
+        "লিবারেল পার্টি",
+        "ডেমোক্র্যাটিক পার্টি"
       ]
     },
     {
       "category": "General Knowledge",
       "type": "multiple",
       "difficulty": "easy",
-      "question": "What type of animal was Harambe, who was shot after a child fell into it&#039;s enclosure at the Cincinnati Zoo?",
+      "question": "সম্প্রতি ব্রিটেনের  সাধারণ নির্বাচনে কোন দল জয়ী হয়?",
       "correct_answer": "Gorilla",
       "incorrect_answers": [
         "Tiger",
@@ -124,40 +140,44 @@
       "type": "multiple",
       "difficulty": "medium",
       "question": "In 2013 how much money was lost by Nigerian scams?",
-      "correct_answer": "$12.7 Billion",
+      "correct_answer": "কনজারভেটিভ পার্টি",
       "incorrect_answers": [
-        "$95 Million",
-        "$956 Million",
-        "$2.7 Billion"
+        "লেবার পার্টি",
+        "ডেমোক্র্যাটিক ইউনিয়ন",
+        "স্কটিশ অ্যালায়েন্স"
       ]
     },
     {
       "category": "General Knowledge",
       "type": "boolean",
       "difficulty": "medium",
-      "question": "The word &quot;news&quot; originates from the first letters of the 4 main directions on a compass (North, East, West, South).",
-      "correct_answer": "False",
+      "question": "who is the current Prime Minister of United Kingdom?",
+      "correct_answer": "Boris Johnson",
       "incorrect_answers": [
-        "True"
+        "David cameron",
+        "James Cameron",
+        "Theresa may",
+        "Jhon major"
       ]
     },
     {
       "category": "General Knowledge",
       "type": "multiple",
       "difficulty": "easy",
-      "question": "How many colors are there in a rainbow?",
-      "correct_answer": "7",
+      "question": "Who is the Foreign Minister in the UK?",
+      "correct_answer": "Dominic Raab",
       "incorrect_answers": [
-        "8",
-        "9",
-        "10"
+        "David Brown",
+        "John McCain",
+        "Jeremy hunt",
+        "Boris Johnson"
       ]
     },
     {
       "category": "General Knowledge",
       "type": "multiple",
       "difficulty": "easy",
-      "question": "Red Vines is a brand of what type of candy?",
+      "question": "যুক্তরাজ্যের স্বরাষ্ট্রমন্ত্রীর নাম কি?",
       "correct_answer": "Licorice",
       "incorrect_answers": [
         "Lollipop",
@@ -170,23 +190,23 @@
       "type": "multiple",
       "difficulty": "medium",
       "question": "What was the destination of the missing flight MH370?",
-      "correct_answer": "Beijing",
+      "correct_answer": "প্রীতি প্যাটেল",
       "incorrect_answers": [
-        "Kuala Lumpur",
-        "Singapore",
-        "Tokyo"
+        "সাজিদ জাভিদ",
+        "বরিস জনসন",
+        "এম্বার  রাড "
       ]
     },
     {
       "category": "General Knowledge",
       "type": "multiple",
       "difficulty": "medium",
-      "question": "Which of these is the name of a Japanese system of alternative medicine, literally meaning &quot;finger pressure&quot;?",
-      "correct_answer": "Shiatsu",
+      "question": "Who is the current president of India?",
+      "correct_answer": "Ram Nath kobind",
       "incorrect_answers": [
-        "Ukiyo",
-        "Majime",
-        "Ikigai"
+        "APJ Abdul Kalam",
+        "Pranab Mukherjee",
+        "Pratibha Patil"
       ]
     },
     {
@@ -205,39 +225,45 @@
       "category": "General Knowledge",
       "type": "multiple",
       "difficulty": "hard",
-      "question": "Disney&#039;s Haunted Mansion is home to a trio of Hitchhiking Ghosts. Which of these is NOT one of them?",
-      "correct_answer": "Harry",
+      "question": "Ram nath kovind is the_ president of India",
+      "correct_answer": "14th",
       "incorrect_answers": [
-        "Gus",
-        "Phineas",
-        "Ezra"
+        "12th",
+        "13th",
+        "15th"
       ]
     },
     {
       "category": "General Knowledge",
       "type": "boolean",
       "difficulty": "medium",
-      "question": "The average woman is 5 inches / 13 centimeters shorter than the average man.",
-      "correct_answer": "True",
+      "question": "ভারতের প্রধানমন্ত্রীর নাম কি",
+      "correct_answer": "নরেন্দ্র মোদি",
       "incorrect_answers": [
-        "False"
-      ]
-    },
-    {
-      "category": "General Knowledge",
-      "type": "boolean",
-      "difficulty": "medium",
-      "question": "Kissing someone for one minute burns about 2 calories.",
-      "correct_answer": "True",
-      "incorrect_answers": [
-        "False"
+        "প্রণব মুখার্জি ",
+        "রাহুল গান্ধী",
+        "মমতা ব্যানার্জি"
       ]
     },
     {
       "category": "General Knowledge",
       "type": "multiple",
       "difficulty": "medium",
-      "question": "Who is the founder of &quot;The Lego Group&quot;?",
+      "question": "ভারতের বর্তমান জোট সরকারের প্রাতিষ্ঠানিক নাম.",
+      "correct_answer": "ভারতীয় জনতা পার্টি",
+      "incorrect_answers": [
+        "ভারতীয় জাতীয় কংগ্রেস",
+        "ভারতীয় গণতান্ত্রিক",
+        "ঐক্য বদ্ধ প্রগতিশীল জোট"
+
+
+      ]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Narendra Modi become the chief minister of Gujrat India in-",
       "correct_answer": "Ole Kirk Christiansen",
       "incorrect_answers": [
         " Jens Niels Christiansen",
@@ -250,253 +276,247 @@
       "type": "multiple",
       "difficulty": "easy",
       "question": "What do the letters in the GMT time zone stand for?",
-      "correct_answer": "Greenwich Mean Time",
+      "correct_answer": "October 2001",
       "incorrect_answers": [
-        "Global Meridian Time",
-        "General Median Time",
-        "Glasgow Man Time"
+        "April 2003",
+        "March 2005",
+        "March 2000"
       ]
     },
     {
       "category": "General Knowledge",
       "type": "multiple",
       "difficulty": "medium",
-      "question": "Amsterdam Centraal station is twinned with what station?",
-      "correct_answer": "London Liverpool Street",
+      "question": "ভারতের উপরাষ্ট্রপতি-",
+      "correct_answer": "ভেঙ্কাইয়া নাইডু",
       "incorrect_answers": [
-        "Frankfurt (Main) Hauptbahnhof",
-        "Paris Gare du Nord",
-        "Brussels Midi"
+        "আবুল কালাম",
+        "হামিদ আনসারি",
+        "জাকির হোসেন"
+      ]
+    },
+
+    {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Who is the current finance minister of India?",
+      "correct_answer": "Nirmala sitharaman",
+      "incorrect_answers": [
+        "Arun Jaitley",
+        "Piyush Goyal",
+        "P Chidambaram"
       ]
     },
     {
       "category": "General Knowledge",
       "type": "multiple",
       "difficulty": "medium",
-      "question": "Which of the following carbonated soft drinks were introduced first?",
-      "correct_answer": "Dr. Pepper",
+      "question": "Who is the foreign minister of India?",
+      "correct_answer": "S Jaishankar",
       "incorrect_answers": [
-        "Coca-Cola",
-        "Sprite",
-        "Mountain Dew"
+        "Sushma Swaraj",
+        "Uma Bharati",
+        "Nitin Gadkari"
+      ]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "মিয়ানমারের প্রেসিডেন্ট কে?",
+      "correct_answer": "উইন মিনত",
+      "incorrect_answers": [
+        "অং সান সুচি",
+        "তিন  কিয়াও",
+        "জেনারেল থান সেইন"
       ]
     },
     {
       "category": "General Knowledge",
       "type": "multiple",
       "difficulty": "easy",
-      "question": "What is the name of Poland in Polish?",
-      "correct_answer": "Polska",
+      "question": "মিয়ানমার সরকারে অংসাং সুচি'র  প্রশাসনিক পদবী কী?",
+      "correct_answer": "স্টেট কাউন্সিলর",
       "incorrect_answers": [
-        "Pupcia",
-        "Polszka",
-        "P&oacute;land"
-      ]
-    },
-    {
-      "category": "General Knowledge",
-      "type": "multiple",
-      "difficulty": "medium",
-      "question": "In what year was McDonald&#039;s founded?",
-      "correct_answer": "1955",
-      "incorrect_answers": [
-        "1964",
-        "1951",
-        "1947"
-      ]
-    },
-    {
-      "category": "General Knowledge",
-      "type": "boolean",
-      "difficulty": "medium",
-      "question": "Fast food restaurant chains Carl&#039;s Jr. and Hardee&#039;s are owned by the same company.",
-      "correct_answer": "True",
-      "incorrect_answers": [
-        "False"
-      ]
-    },
-    {
-      "category": "General Knowledge",
-      "type": "multiple",
-      "difficulty": "medium",
-      "question": "When was Hubba Bubba first introduced?",
-      "correct_answer": "1979",
-      "incorrect_answers": [
-        "1984",
-        "1972",
-        "1980"
+        "রাষ্ট্রপ্রধান",
+        "স্বরাষ্ট্রমন্ত্রী",
+        "পররাষ্ট্র মন্ত্রী"
       ]
     },
     {
       "category": "General Knowledge",
       "type": "multiple",
       "difficulty": "easy",
-      "question": "Which restaurant&#039;s mascot is a clown?",
-      "correct_answer": "McDonald&#039;s",
+      "question": "Who is the new Prime Minister of Pakistan?",
+      "correct_answer": "Imran Khan",
       "incorrect_answers": [
-        "Whataburger",
-        "Burger King",
-        "Sonic"
-      ]
-    },
-    {
-      "category": "General Knowledge",
-      "type": "multiple",
-      "difficulty": "easy",
-      "question": "How tall is the Burj Khalifa?",
-      "correct_answer": "2,722 ft",
-      "incorrect_answers": [
-        "2,717 ft",
-        "2,546 ft",
-        "3,024 ft"
+        "Yousuf Raja Jilanli",
+        "Raja Parvaiz Ashraf",
+        "Asif Ali Zardari",
+        "Nawaz Sharif"
       ]
     },
     {
       "category": "General Knowledge",
       "type": "multiple",
       "difficulty": "hard",
-      "question": "What does the Latin phrase &quot;Veni, vidi, vici&quot; translate into English?",
-      "correct_answer": "I came, I saw, I conquered",
+      "question": "ইমরান খান পাকিস্তানের কততম প্রধানমন্ত্রী?",
+      "correct_answer": "২২তম ",
       "incorrect_answers": [
-        "See no evil, hear no evil, speak no evil",
-        "Life, liberty, and happiness",
-        "Past, present, and future"
+        "২৩তম",
+        "২০তম ",
+        "২১তম "
       ]
     },
     {
       "category": "General Knowledge",
       "type": "boolean",
       "difficulty": "easy",
-      "question": "Dihydrogen Monoxide was banned due to health risks after being discovered in 1983 inside swimming pools and drinking water.",
-      "correct_answer": "False",
+      "question": "শ্রীলংকার রাষ্ট্রপতির নাম কি?",
+      "correct_answer": "মাইথ্রিপালা সিরিসেনা",
       "incorrect_answers": [
-        "True"
+        "রত্নাসিরি বিক্রমানায়েক",
+        "চন্দ্রিকা কুমারাতুঙ্গা",
+        "মাহিন্দা রাজাপাকসে"
       ]
     },
     {
       "category": "General Knowledge",
       "type": "boolean",
       "difficulty": "hard",
-      "question": "Spoon theory is a theory, utilizing &quot;Spoons&quot; as a metaphor for energy they can use in a day.",
-      "correct_answer": "True",
+      "question": "Who is the current Prime Minister of Japan?",
+      "correct_answer": "Shinzo Abe",
       "incorrect_answers": [
-        "False"
+        "U Thant",
+        "Kim Jong un",
+        "Yoshihiko Noda",
+        "None of these"
       ]
     },
     {
       "category": "General Knowledge",
       "type": "boolean",
       "difficulty": "medium",
-      "question": "The scientific name for the Southern Lights is Aurora Australis?",
-      "correct_answer": "True",
+      "question": "The name of the present Prime Minister of Nepal is- ",
+      "correct_answer": "Khadga Prasad Oli",
       "incorrect_answers": [
-        "False"
+        "Wangkhere PraChanda",
+        "Pushpa Kamal Dahal",
+        "PraChanda Nepa",
+        "Sushil Koirala"
       ]
     },
     {
       "category": "General Knowledge",
       "type": "multiple",
       "difficulty": "easy",
-      "question": "What is Tasmania?",
-      "correct_answer": "An Australian State",
+      "question": "Who is the current president of China?",
+      "correct_answer": "Xi Jinping",
       "incorrect_answers": [
-        "A flavor of Ben and Jerry&#039;s ice-cream",
-        "A Psychological Disorder",
-        "The Name of a Warner Brothers Cartoon Character"
+        "Hu Jintao",
+        "Li Keqiang",
+        "Jiang zemin"
       ]
     },
     {
       "category": "General Knowledge",
       "type": "multiple",
       "difficulty": "hard",
-      "question": "Originally another word for poppy, coquelicot is a shade of what?",
-      "correct_answer": "Red",
+      "question": "Who is the prime minister of China?",
+      "correct_answer": "Li Keqiang",
       "incorrect_answers": [
-        "Green",
-        "Blue",
-        "Pink"
+        "Hu Jintao",
+        "Jiang zemin",
+        "Wu Bangguo",
+        "Wen Jiabao"
       ]
     },
     {
       "category": "General Knowledge",
-      "type": "boolean",
+      "type": "multiple",
       "difficulty": "medium",
-      "question": "Haggis is traditionally ate on Burns Night.",
-      "correct_answer": "True",
+      "question": "Who is the current Prime Minister of Thailand ?",
+      "correct_answer": "Yoshihiko Noda",
       "incorrect_answers": [
-        "False"
+        "Shinzo Abe",
+        "Thaksin Shinawatra",
+        "Yingluck Shinawatra",
+        "Prayuth Chan-ocha"
       ]
     },
     {
       "category": "General Knowledge",
       "type": "multiple",
       "difficulty": "easy",
-      "question": "According to the nursery rhyme, what fruit did Little Jack Horner pull out of his Christmas pie?",
-      "correct_answer": "Plum",
+      "question": "2018 সালে মালেয়শিয়া  সাধারণ নির্বাচনে মাহাথির বিন মোহাম্মদ কাকে পরাজিত করেছিলেন?",
+      "correct_answer": "নাজিক  রাজ্জাক",
       "incorrect_answers": [
-        "Apple",
-        "Peach",
-        "Pear"
+        "আনোয়ার ইব্রাহিম",
+        "গাফার বাবা",
+        "আব্দুল্লাহ আহমেদ  বাদাওয়ী "
       ]
     },
     {
       "category": "General Knowledge",
       "type": "multiple",
       "difficulty": "medium",
-      "question": "What is the star sign of someone born on Valentines day?",
-      "correct_answer": "Aquarius",
+      "question": "৯২ বছর বয়সে মালয়েশিয়ার প্রধানমন্ত্রী মাহাথির মোহাম্মদ এর রাজনৈতিক জোট হচ্ছে ?",
+      "correct_answer": "পাকাতান-হারাপান",
       "incorrect_answers": [
-        "Pisces",
-        "Capricorn",
-        "Scorpio"
+        "বারিসান  ন্যাশনাল",
+        "পার্টি পেরিকাস্তান",
+        "ইউ এস এস ও"
       ]
     },
     {
       "category": "General Knowledge",
       "type": "multiple",
       "difficulty": "hard",
-      "question": "What is the most commonly used noun in the English language?",
-      "correct_answer": "Time",
+      "question": "Who is the Prime Minister of Malaysia?",
+      "correct_answer": "Mahathir Muhammad",
       "incorrect_answers": [
-        "Home",
-        "Water",
-        "Man"
+        "Abdullah A Badawi",
+        "Najib Rajak",
+        "Nazari Islam",
+        "None"
       ]
     },
     {
       "category": "General Knowledge",
       "type": "multiple",
       "difficulty": "easy",
-      "question": "The Canadian $1 coin is colloquially known as a what?",
-      "correct_answer": "Loonie",
+      "question": "ইরানের বর্তমান প্রেসিডেন্ট কে?",
+      "correct_answer": "হাসান রুহানি",
       "incorrect_answers": [
-        "Boolie",
-        "Foolie",
-        "Moodie"
+        " আয়াতুল্লাহ আলী খামেনি",
+        "আলী আকবর রাফসানজানি",
+        "রেজা খাতামী"
       ]
     },
     {
       "category": "General Knowledge",
       "type": "multiple",
       "difficulty": "medium",
-      "question": "The Fields Medal, one of the most sought after awards in mathematics, is awarded every how many years?",
-      "correct_answer": "4",
+      "question": "ইন্দোনেশিয়ার বর্তমান প্রেসিডেন্ট",
+      "correct_answer": "জোকো উইদোদো",
       "incorrect_answers": [
-        "3",
-        "5",
-        "6"
+        "মেঘবতী সুকর্ণপুত্রী",
+        "আব্দুর রহমান",
+        "সুসিলো বামবাং"
       ]
     },
     {
       "category": "General Knowledge",
       "type": "multiple",
       "difficulty": "medium",
-      "question": "Linus Pauling, one of the only winners of multiple Nobel Prizes, earned his Nobel Prizes in Chemistry and what?",
-      "correct_answer": "Peace",
+      "question": "ইরাকের প্রেসিডেন্টের নাম কি?",
+      "correct_answer": "বারহাম  সালিহ",
       "incorrect_answers": [
-        "Physics",
-        "Economics",
-        "Physiology/Medicine"
+        "আয়াতুল্লাহ আলী খামেনী",
+        "আলী  আকবর রাফসানজানি",
+        "রেজা খাতামী "
+
       ]
     },
     {
@@ -515,72 +535,261 @@
       "category": "General Knowledge",
       "type": "multiple",
       "difficulty": "easy",
-      "question": "Which of the following is not an Ivy League University?",
-      "correct_answer": "Stanford",
+      "question": "The president of Syria is?",
+      "correct_answer": "Bashar al-Assad",
       "incorrect_answers": [
-        "University of Pennsylvania",
-        "Harvard",
-        "Princeton"
+        "Bashar AL-Assad",
+        "Naser AL-Assad",
+        "Bashir al-Assad"
       ]
     },
     {
       "category": "General Knowledge",
       "type": "multiple",
       "difficulty": "easy",
-      "question": "Which of the following blood component forms a plug at the site of injuries?",
-      "correct_answer": "Platelets",
+      "question": "Who is the president of Palestine?",
+      "correct_answer": "Mahmoud Abbas",
       "incorrect_answers": [
-        "Red blood cells",
-        "White blood cells",
-        "Blood plasma"
+        "Hamid karzai",
+        "Bashar Al-Assad",
+        "Mahmoud Ahmadinejad"
       ]
     },
     {
       "category": "General Knowledge",
       "type": "multiple",
       "difficulty": "easy",
-      "question": "What is the French word for &quot;fish&quot;?",
-      "correct_answer": "poisson",
+      "question": "Who is the Prime president of Palestine?",
+      "correct_answer": "None of these",
       "incorrect_answers": [
-        "fiche",
-        "escargot",
-        "mer"
+        "Mohammed  Abbas",
+        "Yassir Arafat",
+        "Arial Sharon"
       ]
     },
     {
       "category": "General Knowledge",
       "type": "multiple",
       "difficulty": "easy",
-      "question": "What is the famous Papa John&#039;s last name?",
-      "correct_answer": "Schnatter",
+      "question": "ইসরাইলের প্রেসিডেন্টের নাম কি?",
+      "correct_answer": "রিউভেন রিভলিন",
       "incorrect_answers": [
-        "Chowder",
-        "Williams",
-        "ANDERSON"
+        "এহুদ  ওলমার্ট",
+        "আইজ্যাক রবীন",
+        "মোশে কাতসভ"
       ]
     },
     {
       "category": "General Knowledge",
       "type": "multiple",
       "difficulty": "easy",
-      "question": "Who invented the first ever chocolate bar, in 1847?",
-      "correct_answer": "Joseph Fry",
+      "question": "বর্তমান ইসরাইলের প্রধানমন্ত্রীর নাম?",
+      "correct_answer": "বেঞ্জামিন নেতানিয়াহু",
       "incorrect_answers": [
-        "Andrew Johnson",
-        "John Cadbury",
-        "John Tyler"
+        "ইহুদ  বারাক",
+        "আইজ্যাক রবিন",
+        "মিসেস গোল্ডামেয়ার"
+      ]
+    },
+
+    {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "ইজরায়েলের লিকুদ দলটির বর্তমান নেতা-",
+      "correct_answer": "নেতানিয়াহু ",
+      "incorrect_answers": [
+        "লেডি এক্সল",
+        "বেগিন ",
+        "এরিয়েল শ্যারন"
+      ]
+    },
+
+    {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "Who is the current President of Egypt?",
+      "correct_answer": "Abdel Fattah el-Sisi",
+      "incorrect_answers": [
+        "Mohamed Morsi",
+        "Hosni Mubarak",
+        "Anwar Sadat",
+        "Galam Abdel Nasser"
       ]
     },
     {
       "category": "General Knowledge",
       "type": "multiple",
       "difficulty": "hard",
-      "question": "In &quot;Resident Evil 3&quot;, how many inventory slots does Jill have at the start of the game?",
-      "correct_answer": "10",
+      "question": "ফ্রান্সের বর্তমান প্রেসিডেন্টের নাম কি?",
+      "correct_answer": "ইমানুয়েল ম্যাক্রো",
       "incorrect_answers": [
-        "6",
-        "8",
-        "12"
+        "জ্যাক সিরাক",
+        "নিকোলাই সারকোজি",
+        "ফ্রাঁসোয়া ওঁলাদ"
+      ]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "ফ্রান্সের বর্তমান প্রধানমন্ত্রীর নাম কি?",
+      "correct_answer": "মিতেরা",
+      "incorrect_answers": [
+        "সারকোজি ",
+        "এডোয়ার্ড ফিলিপ",
+        "ম্যানুয়াল ভলস"
+      ]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "The name of President of Russia at president is-",
+      "correct_answer": "Putin",
+      "incorrect_answers": [
+        "Medvedev",
+        "Alexandrov",
+        "Mikhailov"
+      ]
+    }, {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "জার্মানির বর্তমান চ্যান্সেলর এর নাম কি?",
+      "correct_answer": "অ্যাঞ্জেলা মার্কেল",
+      "incorrect_answers": [
+        "হেলমুট স্মিথ",
+        "হেলমুট কোল",
+        "শ্রয়েডার"
+      ]
+    }, {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "জার্মানির চ্যান্সেলর অ্যাঞ্জেলা মার্কেল কোন রাজনৈতিক দলের নেতা?",
+      "correct_answer": "ক্রিশ্চিয়ান ডেমোক্রেটিক ইউনিয়ন",
+      "incorrect_answers": [
+        "ক্রিশ্চিয়ান সোশাল ইউনিয়ন",
+        "গ্রীন পার্টি",
+        "অল্টারনেটিভ ফর ডায়েচল্যান্ড"
+      ]
+    }, {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "অ্যাঞ্জেলা মার্কেল সম্প্রতি গতবারের মতো জার্মানির চ্যান্সেলর নির্বাচিত হন?",
+      "correct_answer": "চতুর্থ ",
+      "incorrect_answers": [
+        "দ্বিতীয় ",
+        "তৃতীয় ",
+        "পঞ্চম"
+      ]
+    }, {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "দক্ষিণ আফ্রিকার প্রেসিডেন্ট-",
+      "correct_answer": "সিরিল রামফোসা ",
+      "incorrect_answers": [
+        "থাবো এম্বেকি",
+        "নেলসন ম্যান্ডেলা",
+        "জ্যাকব জুমা"
+      ]
+    },
+
+    {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "The current Prime Minister of Australia is-",
+      "correct_answer": "Scott Morrison",
+      "incorrect_answers": [
+        "Kevin Rudd",
+        "Julia Gillard",
+        "Malcolm turnbull",
+        "Tonny Abbot"
+      ]
+    }, {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "ফিজির প্রধানমন্ত্রীর নাম কি?",
+      "correct_answer": "ফ্রাঙ্ক বৈনিমরমা",
+      "incorrect_answers": [
+        "মহেন্দ্র চৌধুরী",
+        "রাতু স্যার কামিসেসা  মারা",
+        "সিটেভেনি রাবুকা"
+      ]
+    }, {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "কানাডার বর্তমান প্রেসিডেন্টের নাম কি?",
+      "correct_answer": "জাস্টিন ট্রুডো",
+      "incorrect_answers": [
+        "পিয়ের ট্রুডো",
+        "ডেভিড ক্যামেরণ",
+        "এড ব্রডব্যান্ড"
+      ]
+    }, {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "Who is the President of Chile at present?",
+      "correct_answer": "Sebeastian Pinera Echenique",
+      "incorrect_answers": [
+        "Lula Da Silva",
+        "Evo Morales",
+        "Hugo Chavez",
+        "Michelle Bacelet"
+      ]
+    }, {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "Who is the current venezuelan President is-",
+      "correct_answer": "Nicolas Maduro",
+      "incorrect_answers": [
+        "Jose Maria vargas",
+        "Hugo Chavez",
+        "Victor Chavez"
+      ]
+    }, {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "কিউবার বর্তমান প্রেসিডেন্ট হলেন-",
+      "correct_answer": "মিগুয়েল দিনাজ- কেনেল",
+      "incorrect_answers": [
+        "ফিদেল ক্যাস্ট্রো",
+        "রাউল ক্যাস্ট্রো",
+        "হুগো শ্যাভেজ"
+      ]
+    }, {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "The newly elected president of Brazil is-",
+      "correct_answer": "Jair Bolsonaro",
+      "incorrect_answers": [
+        "Gloria Sebastain",
+        "Maria Gonzalez",
+        "Michel Temer",
+        "Michel Temer"
+      ]
+
+    }, {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "Mohammed Bin Salman is the Crown Prince of-",
+      "correct_answer": "KSA",
+      "incorrect_answers": [
+        "UAE",
+        "Kuwat",
+        "Qatar"
       ]
     }
   ]
