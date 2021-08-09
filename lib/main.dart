@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:new_quize/ui/pages/home.dart';
+import 'package:new_quize/ui/pages/main_home.dart';
 
 void main() => runApp(MyApp());
 
@@ -22,7 +23,7 @@ class MyApp extends StatelessWidget {
               textTheme: ButtonTextTheme.primary
           )
       ),
-      home: HomePage(),
+      home: MainHome(),
     );
   }
 }

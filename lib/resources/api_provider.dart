@@ -17,6 +17,8 @@ Future<List<Question>> getQuestions(BuildContext context,Category category, int 
   var data;
   if(category.id==9){
     data=await DefaultAssetBundle.of(context).loadString("assets/genaral_knowledge.json");
+  }else if(category.id==10){
+    data=await DefaultAssetBundle.of(context).loadString("assets/genaral_knowledge_c2.json");
   }
   var jsonResult=json.decode(data);
   //print(jsonResult.toString());

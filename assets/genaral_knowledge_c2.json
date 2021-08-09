@@ -1,0 +1,65 @@
+{
+  "response_code": 0,
+  "results": [
+    {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "পাকিস্তান নিয়ন্ত্রিত কাশ্মীরের কোন অংশে ভারত সম্প্রতি সামরিক বিমান হামলা পরিচালনা করে?",
+      "correct_answer": "বালাকোট",
+      "incorrect_answers": [
+        "এবোটাবাদ",
+        "কোয়েটা",
+        "গিলগিট"
+      ]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "ট্রাম্প-কিম শীর্ষ বৈঠকটি সিঙ্গাপুরের  কোথায় অনুষ্ঠিত হয়েছিল?",
+      "correct_answer": "সেন্তোসা",
+      "incorrect_answers": [
+        "সেনার আয়ল্যান্ড",
+        "ম্যাটিনা বে",
+        "ইস্টানা  আইল্যান্ড"
+      ]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "সিঙ্গাপুরের অনুষ্ঠিত মহাকাব্য কিং জং উন এর মধ্যকার শীর্ষ বৈঠক এর মূল বিষয় কি ছিল?",
+      "correct_answer": "পারমাণবিক নিরস্ত্রীকরণ",
+      "incorrect_answers": [
+        "সীমান্ত সংঘাত",
+        "উত্তর কোরিয়া ও দক্ষিণ কোরিয়ার একত্রীকরণ",
+        "দক্ষিণ কোরিয়া থেকে মার্কিন সেনা প্রত্যাহার"
+      ]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "সম্প্রতি কোন দেশটি  তাদের দূতাবাস তেল আবিব থেকে জেরুজালেমে স্থানান্তর করেছে? এর",
+      "correct_answer": "নভেম্বর",
+      "incorrect_answers": [
+        "মার্কিন যুক্তরাষ্ট্র",
+        "ভারত ",
+        "চীন"
+      ]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "সম্প্রীতি কাতার সংকট এর সময় কোন দেশটি কাতারের সাথে কূটনৈতিক সম্পর্ক ছিন্ন করে নাই?",
+      "correct_answer": "কুয়েত ",
+      "incorrect_answers": [
+        "সংযুক্ত আরব আমিরাত",
+        "বাহরাইন",
+        "মিশর"
+      ]
+    }
+  ]
+}
