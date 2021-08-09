@@ -60,6 +60,66 @@
         "বাহরাইন",
         "মিশর"
       ]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "জম্মু-কাশ্মীরের 70 বছরের বিশেষ মর্যাদা বাতিল করেন কে?",
+      "correct_answer": "নরেন্দ্র মোদি",
+      "incorrect_answers": [
+        "মনমোহন সিং",
+        "সোনিয়া গান্ধী",
+        "রাহুল গান্ধী"
+      ]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "কাশ্মীরের পুলওয়ামায় আত্মঘাতী বোমা হামলায় অংশগ্রহণ করেছিল কোন জঙ্গিগোষ্ঠী?",
+      "correct_answer": "জইশ-ই-মোহাম্মদ",
+      "incorrect_answers": [
+        "তালিবান",
+        "লস্কর-ই-তৈবা",
+        "আল কায়দা"
+      ]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "কত সালে ইউরেনিয়াম সমৃদ্ধ করার সীমা বিষয়ে বিশ্বের পরাশক্তি গুলোর সাথে ইরানের চুক্তি হয়েছিল?",
+      "correct_answer": "2015",
+      "incorrect_answers": [
+        "2000",
+        "2019",
+        "2012"
+      ]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "কেন উত্তর কোরিয়ার সর্বোচ্চ নেতা কিম জন উন এবং দক্ষিণ কোরিয়ার প্রেসিডেন্ট মুন যায় এই বৈঠক করেন?",
+      "correct_answer": "দুই কোরিয়ার শান্তির লক্ষ্যে",
+      "incorrect_answers": [
+        "অস্ত্র বাণিজ্য",
+        "তেল বাণিজ্য",
+        "সীমান্ত রক্ষায়"
+      ]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "কাতার সংকট থেকে উত্তরণের জন্য কাতারকে কত দফা শর্ত করা হয়েছিলে?",
+      "correct_answer": "13 দফা",
+      "incorrect_answers": [
+        "10 দফা",
+        "7 দফা",
+        "6 দফা"
+      ]
     }
   ]
 }

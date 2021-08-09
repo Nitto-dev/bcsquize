@@ -1,7 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.pakizagroup.new_quize">
    <application
-        android:label="new_quize"
+        android:label="BCS Preparation"
         android:icon="@mipmap/ic_launcher">
         <activity
             android:name=".MainActivity"

@@ -1,0 +1,606 @@
+{
+  "response_code": 0,
+  "results": [
+    {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "According to the Forbes Magazine the most powerful man on the earth is-",
+      "correct_answer": "Xi Jinping",
+      "incorrect_answers": [
+        "Joe Biden",
+        "Vladimir Putin",
+        "Angela Merkel"
+      ]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "ফোবস  ফোবস ম্যাগাজিন কর্তৃক মনোনীত বিশ্বের সর্বাপেক্ষা প্রভাবশালী নারী কে?",
+      "correct_answer": "অ্যাঙ্গেলা মার্কেল",
+      "incorrect_answers": [
+        "থেরেসা মে ",
+        "সোনিয়া গান্ধী",
+        "হিলারি ক্লিনটন"
+      ]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "The current richest person of the world 2019-",
+      "correct_answer": "Jeff bezos",
+      "incorrect_answers": [
+        "Elon Musk",
+        "Bill Gates",
+        "Mark Zuckerberg"
+      ]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Currently, the people of which region are happiest in the world? ",
+      "correct_answer": "scandinavian",
+      "incorrect_answers": [
+        "Indian continent",
+        "Caribbean region",
+        "Gulf region"
+      ]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Biggest company in the world in 2018 was-",
+      "correct_answer": "ICBC",
+      "incorrect_answers": [
+        "Apple Inc",
+        "Saudi Aramco",
+        "Microsoft corp"
+      ]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "The richest man in the world (2018) has business interest in-",
+      "correct_answer": "E-commerce",
+      "incorrect_answers": [
+        "Oil",
+        "Software",
+        "Electronics"
+      ]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "The richest company in the world",
+      "correct_answer": "ICBN",
+      "incorrect_answers": [
+        "Facebook",
+        "Microsoft",
+        "Amazon"
+      ]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "The world top retailer in 2018-",
+      "correct_answer": "Walmart",
+      "incorrect_answers": [
+        "The Kroger Co.",
+        "Amazon",
+        "Costco"
+      ]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which is city is rank by The Economist intelligence unit as the worst livable in 2018?",
+      "correct_answer": "Damascus",
+      "incorrect_answers": [
+        "Dhaka",
+        "Tripoli",
+        "Legos"
+      ]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "which of the following countries has recently top the Global innovation index for the consecutive the year in 2018?",
+      "correct_answer": "Switzerland",
+      "incorrect_answers": [
+        "Sweden",
+        "Netherland",
+        "Singapore"
+      ]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "The country ranks first in 2019 Global climate risk index-",
+      "correct_answer": "Puerto Rico",
+      "incorrect_answers": [
+        "China",
+        "Bangladesh",
+        "Honduras"
+      ]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Currently the most expensive city in the world is- ",
+      "correct_answer": "Singapore",
+      "incorrect_answers": [
+        "New York",
+        "Tokyo",
+        "Paris"
+      ]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "As per the Global liveability survey 2018 which city has been ranked as the most liveable city of the world?",
+      "correct_answer": "Vienna",
+      "incorrect_answers": [
+        "London",
+        "New york",
+        "Melbourne"
+      ]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "লন্ডনভিত্তিক ইকোনমিক ইন্টেলিজেন্স ইউনিটের জরিপে বিশ্বের সবচেয়ে বাসযোগ্য শহর কোনটি?",
+      "correct_answer": " মেলবোর্ন",
+      "incorrect_answers": [
+        "লন্ডন",
+        "জুরিখ",
+        "নিউইয়র্ক"
+      ]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "গ্লোবাল টেররিজম ইনডেক্স 2018 অনুযায়ী বিশ্বের সর্বাপেক্ষা ঝুঁকিপূর্ণ রাষ্ট্র-",
+      "correct_answer": "ইরাক",
+      "incorrect_answers": [
+        "সিরিয়া",
+        "সুদান",
+        "সোমালিয়া"
+      ]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "বিশ্বে অস্ত্র আমদানিতে শীর্ষ দেশ কোনটি?",
+      "correct_answer": "সৌদি আরব",
+      "incorrect_answers": [
+        "ভারত",
+        "তাইওয়ান",
+        "সংযুক্ত আরব আমিরাত"
+      ]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "বিশ্বের কোন দেশ অস্ত্র রপ্তানিতে শীর্ষ?",
+      "correct_answer": "মার্কিন যুক্তরাষ্ট্র",
+      "incorrect_answers": [
+        "ফ্রান্স",
+        "চীন",
+        "রাশিয়া"
+      ]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "In which of the following countries literacy rate is highest?",
+      "correct_answer": "Sri Lanka",
+      "incorrect_answers": [
+        "Pakistan",
+        "India",
+        "Bangladesh"
+      ]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "In which South Asian country rate of literacy is highest?",
+      "correct_answer": "Maldives",
+      "incorrect_answers": [
+        "Nepal ",
+        "India",
+        "Sumatra",
+        "Sri Lanka"
+      ]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "সার্কভুক্ত দেশের মধ্যে শিক্ষিতের হার সর্বাধিক কোন দেশে?",
+      "correct_answer": "মালদ্বীপ",
+      "incorrect_answers": [
+        "বাংলাদেশ ",
+        "শ্রীলঙ্কা ",
+        "ভারত "
+      ]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "সার্কভুক্ত দেশগুলোর মধ্যে শিক্ষিতের হার সবচেয়ে কম কোন দেশে?",
+      "correct_answer": "আফগানিস্থান",
+      "incorrect_answers": [
+        "বাংলাদেশ",
+        "শ্রীলঙ্কা",
+        "ভারত"
+      ]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which of the SAARC countries has the highest per capita income?",
+      "correct_answer": "Maldives",
+      "incorrect_answers": [
+        "Pakistan",
+        "India",
+        "Bangladesh"
+      ]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Current position of Bangladesh in Human Development Index?",
+      "correct_answer": "136th",
+      "incorrect_answers": [
+        "141th",
+        "140th",
+        "139th"
+      ]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "ইউএনডিপির সর্বশেষ মানব উন্নয়ন সূচকে (2018) সার্ক দেশগুলোর মধ্যে বাংলাদেশের অবস্থান-",
+      "correct_answer": "পঞ্চম",
+      "incorrect_answers": [
+        "তৃতীয় ",
+        "চতুর্থ",
+        "ষষ্ঠ"
+      ]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "মানব উন্নয়ন সূচকে নিচের কোন দেশটির অবস্থান শীর্ষে?",
+      "correct_answer": "নরওয়ে",
+      "incorrect_answers": [
+        "অস্ট্রেলিয়া",
+        "কানাডা",
+        "আমেরিকা"
+      ]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "মানব উন্নয়ন রিপোর্ট(২০১৮) এর সর্বনিম্ন রয়েছে কোন দেশ?",
+      "correct_answer": "নাইজার",
+      "incorrect_answers": [
+        "মধ্য আফ্রিকান প্রজাতন্ত্র",
+        "সিয়েরা লিওন",
+        "কঙ্গো"
+      ]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "বিশ্বের সবচেয়ে বেশি মাথাপিছু আয়ের দেশ কোনটি?",
+      "correct_answer": "কাতার",
+      "incorrect_answers": [
+        "যুক্তরাষ্ট্র",
+        "কানাডা",
+        "লুক্সেমবার্গ"
+      ]
+    },
+    
+    
+    {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "বিশ্বের কোন দেশে মানুষের জীবনের প্রত্যাশা সবচেয়ে বেশি?",
+      "correct_answer": "জাপান",
+      "incorrect_answers": [
+        "ডেনমার্ক",
+        "মার্কিন যুক্তরাষ্ট্র",
+        "সুইডেন"
+      ]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "আঞ্চলিক ভিত্তিতে জীবন প্রত্যাশা সবচেয়ে বেশি?",
+      "correct_answer": "ল্যাটিন আমেরিকা ও ক্যারাবিয়ান",
+      "incorrect_answers": [
+        "মধ্য এশিয়ায়",
+        "অস্ট্রেলিয়া ও নিউজিল্যান্ডে",
+        "ইউরোপে "
+      ]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which of the following countries has 100% literacy rate?",
+      "correct_answer": "Ukraine",
+      "incorrect_answers": [
+        "Barbados",
+        "Slovakia ",
+        "Poland "
+      ]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "জাতিসংঘের মানব উন্নয়ন সূচকের ভিত্তিতে সার্কভুক্ত কোন দেশটি অগ্রগামী?" ,
+      "correct_answer": "শ্রীলংকা",
+      "incorrect_answers": [
+        "মালদ্বীপ",
+        "বাংলাদেশ",
+        "ভারত",
+        "পাকিস্তান"
+        
+      ]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "According to the most recent transparency to International report what is the least corrupt country in the world??",
+      "correct_answer": "Denmark",
+      "incorrect_answers": [
+        "USA",
+        "Newzealand",
+        "Nigeria",
+        "Thailand"
+      ]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "According to 2018 service of transparency International the position of Bangladesh as one of the most corrupt country is-?",
+      "correct_answer": "13th",
+      "incorrect_answers": [
+        "14th",
+        "17th",
+        "16th",
+        "15th"
+      ]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "which  one is the most densely populated country in the world?",
+      "correct_answer": "Monaco",
+      "incorrect_answers": [
+        "China",
+        "Japan",
+        "Bangladesh",
+        "India"
+      ]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "সার্কভুক্ত দেশসমূহের মধ্যে কোন দেশের জনসংখ্যা ঘনত্ব সবচেয়ে কম?",
+      "correct_answer": "ভুটান",
+      "incorrect_answers": [
+        "শ্রীলংকা",
+        "মালদ্বীপ",
+        "নেপাল"
+      ]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "ইউরোপের সবচেয়ে কম ঘনবসতিপূর্ণ দেশ কোনটি ?",
+      "correct_answer": "আইসল্যান্ড",
+      "incorrect_answers": [
+        "জারমানি",
+        "ভ্যাটিকান সিটি",
+        "নেদারল্যান্ড"
+      ]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "পৃথিবীতে সবচেয়ে ঘনবসতিপূর্ণ শহর কোনটি ?",
+      "correct_answer": "ঢাকা",
+      "incorrect_answers": [
+        "মুম্বাই",
+        "সাংহাই",
+        "স্পেন"
+      ]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which country ranked the top in 2018 corruption concept index?",
+      "correct_answer": "Somalia",
+      "incorrect_answers": [
+        "Syria",
+        "Bangladesh",
+        "Myanmar",
+        "Sudan"
+      ]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "জনসংখ্যার দিক থেকে বাংলাদেশ বিশ্বের কততম?",
+      "correct_answer": "অষ্টম ",
+      "incorrect_answers": [
+        "ষষ্ঠ ",
+        "সপ্তম ",
+        "নবম"
+      ]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "বিশ্ব জনসংখ্যা রিপোর্ট 2019 অনুযায়ী সর্বনিম্ন জন্মহারের দেশ কোনটি ?",
+      "correct_answer": "সিরিয়া ",
+      "incorrect_answers": [
+        "নাইজার  ",
+        "জাপান ",
+        "ওমান "
+      ]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which country is known as having Zero Population Growth ?",
+      "correct_answer": "None of them",
+      "incorrect_answers": [
+        "Sweden ",
+        "Canada ",
+        "Japan ",
+        ""
+      ]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which is the smallest country in Asia by population?",
+      "correct_answer": "Maldives ",
+      "incorrect_answers": [
+        "Nepal ",
+        "none of this",
+        "Bhutan ",
+        "Thailand"
+      ]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "জনসংখ্যার দিক দিয়ে আফ্রিকার বৃহত্তম দেশ?",
+      "correct_answer": "নাইজেরিয়া",
+      "incorrect_answers": [
+        "ঘানা ",
+        "মিশর",
+        "সুদান "
+      ]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "জনসংখ্যার দিক থেকে দক্ষিণ এশিয়ার বৃহত্তম দেশ কোনটি ?",
+      "correct_answer": "ভারত ",
+      "incorrect_answers": [
+        "বাংলাদেশ ",
+        "শ্রীলঙ্কা ",
+        "পাকিস্তান ",
+        "কোনোটিই নয়"
+      ]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "জনসংখ্যার ক্রমানুসারে সাজানো  পুনঃবিন্যাস টি সঠিক ?",
+      "correct_answer": " ভারত পাকিস্তান বাংলাদেশ নেপাল শ্রীলংকা ভুটান মালদ্বীপ",
+      "incorrect_answers": [
+        "ভারত বাংলাদেশ পাকিস্তান নেপাল ভুটান",
+        "ভারত পাকিস্তান বাংলাদেশ শ্রীলঙ্কা নেপাল ভুটান মালদ্বীপ",
+        "ভারত-পাকিস্তান-বাংলাদেশ নেপাল মালদ্বীপ ভুটান শ্রীলংকা"
+      ]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "বিশ্বের কোন অঞ্চলের জনসংখ্যা সবচেয়ে দ্রুত বৃদ্ধি পাচ্ছে ?",
+      "correct_answer": "আফ্রিকার সাব-সাহারা অঞ্চল,",
+      "incorrect_answers": [
+        "দক্ষিণ পূর্ব এশিয়া",
+        "ইউরোপ ",
+        "আমেরিকা দক্ষিণ এশিয়া"
+      ]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What is the world population now?",
+      "correct_answer": "771.50 crore",
+      "incorrect_answers": [
+        "6650 crore",
+        "724.16 crore",
+        "8000 crore"
+      ]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Country that ranks first in terms of population is?",
+      "correct_answer": "China",
+      "incorrect_answers": [
+        "Russia ",
+        "USA ",
+        "India ",
+        "Canada"
+      ]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "পৃথিবীর দ্বিতীয় সবচেয়ে জনবহুল দেশ?",
+      "correct_answer": "ভারত",
+      "incorrect_answers": [
+        "চীন ",
+        "রাশিয়া ",
+        "মার্কিন যুক্তরাষ্ট্র "
+      ]
+    }
+    ]
+}

@@ -24,7 +24,7 @@ class MainHome extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
         appBar: AppBar(
-          title: Text('Nitto Quiz'),
+          title: Text('BCS Preparation'),
           elevation: 0,
         ),
         body: Stack(
@@ -85,7 +85,7 @@ class MainHome extends StatelessWidget {
           Navigator.push(context, PageTransition(type: PageTransitionType.rightToLeft,child: HomePage(category.subCategory,category.color)));
         }else{
           if(category.subCategory==[]){
-            toast.warningMassage("Content is ready yet!");
+            toast.warningMassage("Content isn't ready yet!");
           }
         }
       },

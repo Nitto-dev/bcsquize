@@ -31,7 +31,7 @@ class HomePage extends StatelessWidget {
     return Scaffold(
         appBar: AppBar(
           //backgroundColor: color,
-          title: Text('Nitto Quiz'),
+          title: Text('BCS Preparation'),
           elevation: 0,
         ),
         body: Stack(
@@ -52,7 +52,7 @@ class HomePage extends StatelessWidget {
                     padding: const EdgeInsets.symmetric(
                         horizontal: 16.0, vertical: 8.0),
                     child: Text(
-                      "Select a category to start the quiz",
+                      "Select a Chapter to start the quiz",
                       style: TextStyle(
                           color: Colors.white,
                           fontWeight: FontWeight.w500,

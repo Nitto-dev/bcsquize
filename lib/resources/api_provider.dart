@@ -16,9 +16,11 @@ Future<List<Question>> getQuestions(BuildContext context,Category category, int 
   List<Map<String, dynamic>> questions=[];
   var data;
   if(category.id==9){
-    data=await DefaultAssetBundle.of(context).loadString("assets/genaral_knowledge.json");
+    data=await DefaultAssetBundle.of(context).loadString("assets/json/genaral_knowledge.json");
   }else if(category.id==10){
-    data=await DefaultAssetBundle.of(context).loadString("assets/genaral_knowledge_c2.json");
+    data=await DefaultAssetBundle.of(context).loadString("assets/json/genaral_knowledge_c2.json");
+  }else if(category.id==11){
+    data=await DefaultAssetBundle.of(context).loadString("assets/json/genaral_knowledge_c3.json");
   }
   var jsonResult=json.decode(data);
   //print(jsonResult.toString());
