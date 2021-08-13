@@ -1,4 +1,4 @@
-package com.pakizagroup.new_quize
+package com.nittodigital.bcsquize
 
 import io.flutter.embedding.android.FlutterActivity
 
