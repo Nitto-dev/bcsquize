@@ -9,7 +9,7 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
-      title: 'Open Trivia',
+      title: 'NittoBCS',
       theme: ThemeData(
           primarySwatch: Colors.pink,
           accentColor: Colors.indigo,
